@@ -1,24 +1,38 @@
+# Student Grade Tracker
 
-#  STUDENT GRADE TRACKER
+## Overview
+The Student Grade Tracker is a Python-based application designed to simplify the process of managing and tracking student grades. This tool enables educators to efficiently record, analyze, and report student performance across various subjects.
 
+## Features
+- **Automated Grade Tracking**: Streamlines the process of tracking student grades and reduces manual errors.
+- **Performance Monitoring**: Allows educators to monitor and analyze student performance over time.
+- **Customizable Reports**: Generates reports to communicate student progress to parents and stakeholders.
+- **Data Security**: Ensures secure storage of student data, accessible only to authorized users.
+- **User-Friendly Interface**: Intuitive interface for educators with minimal technical skills.
 
+## Technology Stack
+- Python
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Deepak-L-coder/ViLearnx-Task-1.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ViLearnx-Task-1
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+## Usage
+To run the application, execute the following command:
+```bash
+python main.py
+```
 
-
-## Introduction :
-
-The Student Grade Tracker is a Python-based application designed to simplify the process of managing and tracking student grades. It serves as a comprehensive tool for educators, enabling them to efficiently record, analyze, and report student performance across different subjects. The application aims to reduce the administrative burden on teachers by automating grade calculations and providing insightful analytics on student progress. By offering customizable reporting options and ensuring data security, the Student Grade Tracker enhances the overall educational experience for both teachers and students.
-## Objectives :
-Automate Grade Tracking: Develop a system to automate the process of tracking student grades across various subjects, eliminating manual effort and reducing the likelihood of errors.
-
-Performance Monitoring: Provide an easy way to monitor and analyze student performance over time, enabling educators to identify trends and intervene where necessary.
-
-Customizable Reports: Allow the generation of customizable reports that can be used to communicate student progress to parents, students, and other stakeholders.
-
-Data Security: Ensure that all student data is securely stored and only accessible to authorized users, protecting the privacy and integrity of sensitive information.
-
-User-Friendly Interface: Create an intuitive and user-friendly interface that can be easily navigated by educators, even those with minimal technical skills.
 ## Screenshots :
 
 ![Screenshot 2024-08-10 121742](https://github.com/user-attachments/assets/e6b7dcf0-00ae-4e2d-baf8-5273bcb6b45d)
